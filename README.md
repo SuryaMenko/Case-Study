@@ -6,16 +6,20 @@ Prepare yourself for an exhilarating dive into the ocean of data as we embark on
 
 Quests to Conquer:
 
+Phase 1:
 API Shenanigans:
 
 Your Targets:
 
-Orders API: Master the ancient scrolls of the Orders API v0 Reference (https://developer-docs.amazon.com/sp-api/docs/orders-api-v0-reference) to summon order details from the digital ether.
+Orders API: Master the ancient scrolls of the Orders API(https://developer-docs.amazon.com/sp-api/docs/orders-api-v0-reference) to summon order details from the digital ether.
 
 Sales API: Channel the arcane powers of the Sales API(https://developer-docs.amazon.com/sp-api/docs/sales-api-v1-reference)  to reveal the mysteries of sales data.
 
 Stealth Mode: Engage in covert operations to make API calls. Remember, the keys to the kingdom (API keys, that is) must remain unseen by prying eyes across different realms (regions).
 
+Though you only have to come up the code for authenticating and calling an API!
+
+Phase 2:
 Treasure Hunt (Data Retrieval and Setup):
 Maps - https://drive.google.com/drive/folders/1X9nCy4mvgAXjzvpqCzQw28S5FQS7IEuO?usp=sharing
 
