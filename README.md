@@ -10,7 +10,7 @@ API Shenanigans:
 
 Your Targets:
 
-Orders API: Master the ancient scrolls of the Orders API (https://developer-docs.amazon.com/sp-api/docs/orders-api-v0-reference) to summon order details from the digital ether.
+Orders API: Master the ancient scrolls of the Orders API v0 Reference (https://developer-docs.amazon.com/sp-api/docs/orders-api-v0-reference) to summon order details from the digital ether.
 
 Sales API: Channel the arcane powers of the Sales API(https://developer-docs.amazon.com/sp-api/docs/sales-api-v1-reference)  to reveal the mysteries of sales data.
 
