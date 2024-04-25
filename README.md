@@ -60,9 +60,8 @@ In addition to analysis, the manager extracts numerous files from seperate sourc
 
 
 What would be the logical schema you would design from the above tables. You can use any  convenient tool to design the schema, please provide the link or attach the image for easy viewing. 
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 **Data Analysis Extravaganza: A Worldwide Sales and Orders Odyssey**
 
 **Mission Briefing:**
